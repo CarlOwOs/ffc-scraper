@@ -2,16 +2,13 @@ import asyncio
 from playwright.async_api import async_playwright
 import os
 import json
-import random
 from bs4 import BeautifulSoup
 import markdown
 from dotenv import load_dotenv
 
 load_dotenv()
-URLS = ["https://www.epfl.ch/innovation/startup/incubation/innogrants/innogrants-list/"]#[os.environ.get("INNOGRANTS_URL")]
+URL = os.environ.get("INNOGRANTS_URL")
 OUTPUT_DIR = os.environ.get("OUTPUT_DIR")
-
-print(OUTPUT_DIR, URLS)
 
 async def save_content(url, content):
     filename = url.replace('/', '_').replace(':', '_').replace('?', '_').replace('&', '_')
@@ -49,19 +46,13 @@ async def scrape_page(page, url):
     except Exception as e:
         print(f"Error scraping {url}: {e}")
     
-    # Random delay between 10 seconds and 2 minutes
-    delay = random.uniform(10, 120)
-    print(f"Waiting for {delay:.2f} seconds before next request...")
-    await asyncio.sleep(delay)
-
 async def main():
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         context = await browser.new_context()
         page = await context.new_page()
         
-        for url in URLS:
-            await scrape_page(page, url)
+        await scrape_page(page, URL)
             
         await browser.close()
     print("Scraping completed.")
