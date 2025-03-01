@@ -1,0 +1,5 @@
+beautifulsoup4>=4.13.3
+markdown>=3.7
+playwright>=1.50.0
+python-dotenv>=1.0.1
+slack-sdk>=3.34.0

@@ -1,0 +1,47 @@
+name: Run Website Scraper
+
+on:
+  # Run on a schedule (this example runs every Monday at 00:00 UTC)
+  schedule:
+    - cron: '0 6 * * *'
+  # Allows you to manually trigger the workflow if needed
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.4.0
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install
+
+      - name: Run scraper script
+        run: python scrape.py
+
+      - name: Wait 5 minutes
+        run: sleep 300
+      
+      - name: Run parser script
+        run: python parse.py
+
+      - name: Commit changes if database updated
+        run: |
+          # Check for changes (adjust the path to your SQLite database)
+          if [ -n "$(git status --porcelain sections.db)" ]; then
+            git add sections.db
+            git commit -m "Update database $(date)"
+            git push
+          else
+            echo "No database changes detected."
+          fi
