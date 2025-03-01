@@ -7,6 +7,8 @@ from dotenv import load_dotenv
 from slack_sdk import WebClient
 from slack_sdk.errors import SlackApiError
 
+from config.constants import INNOGRANTS_DB_PATH, INNOGRANTS_HTML_FILE, INNOGRANTS_URL, SLACK_CHANNEL
+
 
 def parse_sections_from_html(html_content):
     """
@@ -195,8 +197,7 @@ def main():
     load_dotenv()
 
     try:
-        html_file = os.environ.get("INNOGRANTS_HTML_FILE")
-        html_content = read_html_file(html_file)
+        html_content = read_html_file(INNOGRANTS_HTML_FILE)
     except Exception as e:
         print(f"Error reading HTML file: {e}")
         sys.exit(1)
@@ -207,7 +208,7 @@ def main():
         print("No sections found in the HTML file.")
         sys.exit(0)
     
-    db = init_db(os.environ.get("DB_PATH"))
+    db = init_db(INNOGRANTS_DB_PATH)
     known_sections = get_known_sections(db)
 
     # Identify new sections (not in the database yet)
@@ -236,12 +237,11 @@ def main():
             message += f"\n\nWarning: Unable to parse startup data for {section['title']} cohort, the script may need to be updated."
     
         # Append the innogrants list URL at the end of the message
-        message += f"\n\nFor more details, visit: {os.environ.get('INNOGRANTS_URL')}"
+        message += f"\n\nFor more details, visit: {INNOGRANTS_URL}"
         messages.append(message)
 
-    slack_channel = os.environ.get("SLACK_CHANNEL")
-    slack_token = os.environ.get("SLACK_BOT_TOKEN")
-    send_slack_messages(slack_token, slack_channel, messages)
+    slack_token = os.getenv("SLACK_BOT_TOKEN")
+    send_slack_messages(slack_token, SLACK_CHANNEL, messages)
 
 if __name__ == "__main__":
     main()
