@@ -29,9 +29,6 @@ jobs:
       - name: Run scraper script
         run: python scrape.py
 
-      - name: Wait 5 minutes
-        run: sleep 300
-      
       - name: Run parser script
         run: python parse.py
 
