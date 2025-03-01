@@ -40,9 +40,12 @@ jobs:
 
       - name: Commit changes if database updated
         run: |
-          # Check for changes (adjust the path to your SQLite database)
-          if [ -n "$(git status --porcelain sections.db)" ]; then
-            git add sections.db
+          # Check for changes
+          git config user.email "carloshurtadocomin@gmail.com"
+          git config user.name "Carlos Hurtado"
+
+          if [ -n "$(git status --porcelain $DB_PATH)" ]; then
+            git add $DB_PATH
             git commit -m "Update database $(date)"
             git push
           else
