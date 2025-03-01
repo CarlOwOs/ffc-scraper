@@ -14,12 +14,8 @@ jobs:
   run-scraper:
     runs-on: ubuntu-latest
     env:
-      INNOGRANTS_URL: ${{ secrets.INNOGRANTS_URL }}
-      OUTPUT_DIR: ${{ secrets.OUTPUT_DIR }}
-      INNOGRANTS_HTML_FILE: ${{ secrets.INNOGRANTS_HTML_FILE }}
-      DB_PATH: ${{ secrets.DB_PATH }}
       SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-      SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
+      DB_PATH: "data/db"
     steps:
       - uses: actions/checkout@v4
         with:
@@ -36,10 +32,10 @@ jobs:
           python -m playwright install # print environment variables
 
       - name: Run scraper script
-        run: python scrape.py
+        run: python src/innogrants_scrape.py
 
       - name: Run parser script
-        run: python parse.py
+        run: python src/innogrants_parse.py
 
       - name: Commit changes if database updated
         run: |
