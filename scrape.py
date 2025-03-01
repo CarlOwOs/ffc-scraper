@@ -8,7 +8,7 @@ import markdown
 from dotenv import load_dotenv
 
 load_dotenv()
-URLS = [os.environ.get("INNOGRANTS_URL")]
+URLS = ["https://www.epfl.ch/innovation/startup/incubation/innogrants/innogrants-list/"]#[os.environ.get("INNOGRANTS_URL")]
 OUTPUT_DIR = os.environ.get("OUTPUT_DIR")
 
 print(OUTPUT_DIR, URLS)
