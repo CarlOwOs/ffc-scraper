@@ -11,6 +11,8 @@ load_dotenv()
 URLS = [os.environ.get("INNOGRANTS_URL")]
 OUTPUT_DIR = os.environ.get("OUTPUT_DIR")
 
+print(OUTPUT_DIR, URLS)
+
 async def save_content(url, content):
     filename = url.replace('/', '_').replace(':', '_').replace('?', '_').replace('&', '_')
     os.makedirs(OUTPUT_DIR, exist_ok=True)

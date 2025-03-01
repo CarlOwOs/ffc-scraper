@@ -30,7 +30,11 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-          python -m playwright install
+          python -m playwright install # print environment variables
+          echo $INNOGRANTS_URL
+          echo $OUTPUT_DIR
+          echo $INNOGRANTS_HTML_FILE
+          echo $DB_PATH
 
       - name: Run scraper script
         run: python scrape.py
