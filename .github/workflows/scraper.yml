@@ -47,7 +47,7 @@ jobs:
           if [ -n "$(git status --porcelain $DB_PATH)" ]; then
             git add $DB_PATH
             git commit -m "Update database $(date)"
-            git push
+            git push https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
           else
             echo "No database changes detected."
           fi
