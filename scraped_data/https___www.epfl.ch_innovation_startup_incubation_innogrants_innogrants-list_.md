@@ -221,7 +221,7 @@
 <h1 class="entry-title">Innogrants List</h1> </header>
 <div class="entry-content container-grid pb-5 pt-3 mb-4">
 <p>Mainly financed by EPFL, the Innogrants are or were also supported by the following sponsors</p>
-<button aria-controls="#collapse-701b0a18e542dd1252d649afdf4a46eb" aria-expanded="false" class="collapse-title collapse-title-desktop" data-target="#collapse-701b0a18e542dd1252d649afdf4a46eb" data-toggle="collapse" type="button">2024</button><div class="collapse collapse-item collapse-item-desktop show" id="collapse-701b0a18e542dd1252d649afdf4a46eb">
+<button aria-controls="#collapse-86855ff49dbec2dcdd67438a2409e6cc" aria-expanded="false" class="collapse-title collapse-title-desktop" data-target="#collapse-86855ff49dbec2dcdd67438a2409e6cc" data-toggle="collapse" type="button">2024</button><div class="collapse collapse-item collapse-item-desktop show" id="collapse-86855ff49dbec2dcdd67438a2409e6cc">
 <div class="wp-block-epfl-toggle">
 <p>13 Innogrants have been approved. </p>
 <table class="table" style="height: 161px;width: 100%">
@@ -314,7 +314,7 @@
 </table>
 </div>
 </div>
-<button aria-controls="#collapse-4dc768b29c2a15934353ea0e09a25ae5" aria-expanded="false" class="collapse-title collapse-title-desktop" data-target="#collapse-4dc768b29c2a15934353ea0e09a25ae5" data-toggle="collapse" type="button">2023</button><div class="collapse collapse-item collapse-item-desktop show" id="collapse-4dc768b29c2a15934353ea0e09a25ae5">
+<button aria-controls="#collapse-f9d85579d8ac3aa4eff5f4070d03ebb5" aria-expanded="false" class="collapse-title collapse-title-desktop" data-target="#collapse-f9d85579d8ac3aa4eff5f4070d03ebb5" data-toggle="collapse" type="button">2023</button><div class="collapse collapse-item collapse-item-desktop show" id="collapse-f9d85579d8ac3aa4eff5f4070d03ebb5">
 <div class="wp-block-epfl-toggle">
 <p>13 Innogrants have been approved. </p>
 <table class="table" style="width: 100%;height: 890px">
@@ -407,7 +407,7 @@
 </table>
 </div>
 </div>
-<button aria-controls="#collapse-e92c92d9af8fd8fb3b63c907ab1f2645" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-e92c92d9af8fd8fb3b63c907ab1f2645" data-toggle="collapse" type="button">2022</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-e92c92d9af8fd8fb3b63c907ab1f2645">
+<button aria-controls="#collapse-4f444dcbb26749657a1abaed10f4eb57" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-4f444dcbb26749657a1abaed10f4eb57" data-toggle="collapse" type="button">2022</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-4f444dcbb26749657a1abaed10f4eb57">
 <div class="wp-block-epfl-toggle">
 <p>10 Innogrants have been approved. </p>
 <table class="table" style="width: 100%;height: 1045px">
@@ -482,7 +482,7 @@
 </table>
 </div>
 </div>
-<button aria-controls="#collapse-fcd7d0d892a3bd73c31d514437cddccf" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-fcd7d0d892a3bd73c31d514437cddccf" data-toggle="collapse" type="button">2021</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-fcd7d0d892a3bd73c31d514437cddccf">
+<button aria-controls="#collapse-e9884fd2fcb41c73185a908762019272" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-e9884fd2fcb41c73185a908762019272" data-toggle="collapse" type="button">2021</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-e9884fd2fcb41c73185a908762019272">
 <div class="wp-block-epfl-toggle">
 <p>13 Innogrants have been approved. </p>
 <table class="table" style="width: 100%;height: 1045px">
@@ -575,7 +575,7 @@
 </table>
 </div>
 </div>
-<button aria-controls="#collapse-9a61336a6dcf73f89378523f6fcfe7ee" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-9a61336a6dcf73f89378523f6fcfe7ee" data-toggle="collapse" type="button">2020</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-9a61336a6dcf73f89378523f6fcfe7ee">
+<button aria-controls="#collapse-ac1effd17dfcf6258e7ce3e8b9df1a3d" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-ac1effd17dfcf6258e7ce3e8b9df1a3d" data-toggle="collapse" type="button">2020</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-ac1effd17dfcf6258e7ce3e8b9df1a3d">
 <div class="wp-block-epfl-toggle">
 <p>10 Innogrants have been approved. </p>
 <table class="table" style="width: 100%;height: 384px">
@@ -650,7 +650,7 @@
 </table>
 </div>
 </div>
-<button aria-controls="#collapse-a2bc1cce27b34cea79a10708e5be6206" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-a2bc1cce27b34cea79a10708e5be6206" data-toggle="collapse" type="button">2019</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-a2bc1cce27b34cea79a10708e5be6206">
+<button aria-controls="#collapse-5f3c9206640bc69f7ff1e65dcd302046" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-5f3c9206640bc69f7ff1e65dcd302046" data-toggle="collapse" type="button">2019</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-5f3c9206640bc69f7ff1e65dcd302046">
 <div class="wp-block-epfl-toggle">
 <p>11 Innogrants have been approved. </p>
 <table class="table" style="width: 100%;height: 444px">
@@ -731,7 +731,7 @@
 </table>
 </div>
 </div>
-<button aria-controls="#collapse-192b7d0bf35020d8eb7b5bcad2e1b493" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-192b7d0bf35020d8eb7b5bcad2e1b493" data-toggle="collapse" type="button">2018</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-192b7d0bf35020d8eb7b5bcad2e1b493">
+<button aria-controls="#collapse-425adda36f9413369995089adc9e919b" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-425adda36f9413369995089adc9e919b" data-toggle="collapse" type="button">2018</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-425adda36f9413369995089adc9e919b">
 <div class="wp-block-epfl-toggle">
 <p>12 Innogrants have been approved.</p>
 <table class="table" style="width: 0%;height: 826px" width="100%">
@@ -818,7 +818,7 @@
 </table>
 </div>
 </div>
-<button aria-controls="#collapse-6f78d9c64bd2920436e1b5984cd0215c" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-6f78d9c64bd2920436e1b5984cd0215c" data-toggle="collapse" type="button">2017</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-6f78d9c64bd2920436e1b5984cd0215c">
+<button aria-controls="#collapse-cb3f4384ee33dccc858cee57e7e8e8c4" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-cb3f4384ee33dccc858cee57e7e8e8c4" data-toggle="collapse" type="button">2017</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-cb3f4384ee33dccc858cee57e7e8e8c4">
 <div class="wp-block-epfl-toggle">
 <div class="textBox">
 <p>a record 15 Innogrants have been approved.</p>
@@ -928,7 +928,7 @@
 </div>
 </div>
 </div>
-<button aria-controls="#collapse-488be91bfefa7cda314f733ecfc3917c" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-488be91bfefa7cda314f733ecfc3917c" data-toggle="collapse" type="button">2016</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-488be91bfefa7cda314f733ecfc3917c">
+<button aria-controls="#collapse-84430f549884eef6bd3d9fa4fc45bd8c" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-84430f549884eef6bd3d9fa4fc45bd8c" data-toggle="collapse" type="button">2016</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-84430f549884eef6bd3d9fa4fc45bd8c">
 <div class="wp-block-epfl-toggle">
 <div class="textBox">
 <p>12 Innogrants have been approved.</p>
@@ -1017,7 +1017,7 @@
 </div>
 </div>
 </div>
-<button aria-controls="#collapse-358a71aafa9f3eeb0b971f8b06fb39f8" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-358a71aafa9f3eeb0b971f8b06fb39f8" data-toggle="collapse" type="button">2015</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-358a71aafa9f3eeb0b971f8b06fb39f8">
+<button aria-controls="#collapse-5a74053acb7eb039bb51796147f3f51c" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-5a74053acb7eb039bb51796147f3f51c" data-toggle="collapse" type="button">2015</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-5a74053acb7eb039bb51796147f3f51c">
 <div class="wp-block-epfl-toggle">
 <div class="textBox">
 <p><span style="font-size: inherit">11 Innogrants have been approved.</span></p>
@@ -1102,7 +1102,7 @@
 </div>
 </div>
 </div>
-<button aria-controls="#collapse-36ace840f0aa660c365ff94e0d0cff80" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-36ace840f0aa660c365ff94e0d0cff80" data-toggle="collapse" type="button">2014</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-36ace840f0aa660c365ff94e0d0cff80">
+<button aria-controls="#collapse-59329d44865d48dfa8f3975741bab6e2" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-59329d44865d48dfa8f3975741bab6e2" data-toggle="collapse" type="button">2014</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-59329d44865d48dfa8f3975741bab6e2">
 <div class="wp-block-epfl-toggle">
 <div class="textBox">
 <p>12 Innogrants have been approved.</p>
@@ -1191,7 +1191,7 @@
 </div>
 </div>
 </div>
-<button aria-controls="#collapse-b67e651f596b5268c4894c96c8ad4125" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-b67e651f596b5268c4894c96c8ad4125" data-toggle="collapse" type="button">2013</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-b67e651f596b5268c4894c96c8ad4125">
+<button aria-controls="#collapse-20d9cf9c1a958266fc867d4ac39bd20b" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-20d9cf9c1a958266fc867d4ac39bd20b" data-toggle="collapse" type="button">2013</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-20d9cf9c1a958266fc867d4ac39bd20b">
 <div class="wp-block-epfl-toggle">
 <div class="textBox">
 <p>10 Innogrants have been approved.</p>
@@ -1268,7 +1268,7 @@
 </div>
 </div>
 </div>
-<button aria-controls="#collapse-303baee672f1223a39e8d41296efefdd" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-303baee672f1223a39e8d41296efefdd" data-toggle="collapse" type="button">2012</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-303baee672f1223a39e8d41296efefdd">
+<button aria-controls="#collapse-f9cabe1c24d09cdd6442ce93844ca6f9" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-f9cabe1c24d09cdd6442ce93844ca6f9" data-toggle="collapse" type="button">2012</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-f9cabe1c24d09cdd6442ce93844ca6f9">
 <div class="wp-block-epfl-toggle">
 <div class="textBox">
 <p>9 Innogrants have been approved.</p>
@@ -1339,7 +1339,7 @@
 </div>
 </div>
 </div>
-<button aria-controls="#collapse-928ab469d8f4d13ca86123cb12afa240" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-928ab469d8f4d13ca86123cb12afa240" data-toggle="collapse" type="button">2011</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-928ab469d8f4d13ca86123cb12afa240">
+<button aria-controls="#collapse-2e5d3e9112cb34036c7aa118b3f7ce8d" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-2e5d3e9112cb34036c7aa118b3f7ce8d" data-toggle="collapse" type="button">2011</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-2e5d3e9112cb34036c7aa118b3f7ce8d">
 <div class="wp-block-epfl-toggle">
 <div class="textBox">
 <p>67 projects were submitted; 17 went through a second phase assessment and 6 have been approved.</p>
@@ -1394,7 +1394,7 @@
 </div>
 </div>
 </div>
-<button aria-controls="#collapse-f7528235d82b7582d28bc25c6e3936bd" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-f7528235d82b7582d28bc25c6e3936bd" data-toggle="collapse" type="button">2010</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-f7528235d82b7582d28bc25c6e3936bd">
+<button aria-controls="#collapse-6869ea860247d0d1df6101c4ae1f842b" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-6869ea860247d0d1df6101c4ae1f842b" data-toggle="collapse" type="button">2010</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-6869ea860247d0d1df6101c4ae1f842b">
 <div class="wp-block-epfl-toggle">
 <div class="textBox">
 <p>48 projects were submitted; 10 went through a second phase assessment and 5 have been approved.</p>
@@ -1441,7 +1441,7 @@
 </div>
 </div>
 </div>
-<button aria-controls="#collapse-3a8cd859699a96ac7b6535b0133d34f9" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-3a8cd859699a96ac7b6535b0133d34f9" data-toggle="collapse" type="button">2009</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-3a8cd859699a96ac7b6535b0133d34f9">
+<button aria-controls="#collapse-e6d270698628cc47fc8e9c6138233e34" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-e6d270698628cc47fc8e9c6138233e34" data-toggle="collapse" type="button">2009</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-e6d270698628cc47fc8e9c6138233e34">
 <div class="wp-block-epfl-toggle">
 <div class="textBox">
 <p>48 projects were submitted; 11 went through a second phase assessment and 5 have been approved.</p>
@@ -1491,7 +1491,7 @@
 </div>
 </div>
 </div>
-<button aria-controls="#collapse-59308c3e8ea45de645a5f0b41b52f934" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-59308c3e8ea45de645a5f0b41b52f934" data-toggle="collapse" type="button">2008 – 2005</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-59308c3e8ea45de645a5f0b41b52f934">
+<button aria-controls="#collapse-6e0078753a8db440c8109195d8464539" aria-expanded="false" class="collapse-title collapse-title-desktop collapsed" data-target="#collapse-6e0078753a8db440c8109195d8464539" data-toggle="collapse" type="button">2008 – 2005</button><div class="collapse collapse-item collapse-item-desktop" id="collapse-6e0078753a8db440c8109195d8464539">
 <div class="wp-block-epfl-toggle">
 <div class="textBox">
 <h3 id="2009"><span style="font-size: 1.4em">2008</span></h3>
